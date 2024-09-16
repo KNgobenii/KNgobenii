@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @KNgobenii
-- 👀 I’m interested in web development, video game development
-- 🌱 I’m currently learning Java and python
-- 💞️ I’m looking to collaborate on game theory and development
-- 📫 How to reach me: Khensaningob@gmail.com
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I wanted to be a teacher but for aliens... a space teacher.
+- Hey, I’m Khensani! 👋
+- 💻 Code enthusiast | 🕹 Gamer at heart 
+
+- I love creating cool things with whatever i can find and figuring out how to make tech fun! When I'm not coding, you can find me leveling up in the latest games or exploring new gadgets. Always learning, always improving, and always down for a good challenge!
+
+- ✨ Current obsession: Learnning how the heck Python works 😆
+- 🎮 Favorite games: Stardew Valley, Life is Strange and GTA
+- 💡 Let’s collaborate! Khensaningob@gmail.com
 
 <!---
 KNgobenii/KNgobenii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
